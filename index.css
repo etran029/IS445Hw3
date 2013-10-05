@@ -32,6 +32,17 @@ nav {
     margin: 2em;
 }
 
+a:link {
+    color: grey;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
 #nav a:hover { 
 text-decoration:underline; 
 color:#707F7F; 
